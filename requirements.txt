@@ -1,0 +1,17 @@
+streamlit
+
+pandas
+numpy
+
+scikit-learn
+scipy
+scikit-fuzzy
+
+matplotlib
+seaborn
+
+joblib
+tqdm
+
+pyarrow
+python-dateutil
