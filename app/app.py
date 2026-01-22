@@ -1,8 +1,16 @@
 # app.py
+
 import streamlit as st
 import pandas as pd
 import numpy as np
-from src.inference import RecommendationService
+
+import sys
+from pathlib import Path
+
+sys.path.append(str(Path(__file__).resolve().parent.parent / "src"))
+
+from inference import RecommendationService
+
 
 # -------------------------------------------------
 # Page Config
@@ -297,4 +305,5 @@ please feel free to send your feedback directly via email:
 
 I appreciate your thoughts and feedback that help improve this project.  
 """)
+
 st.markdown("---")
