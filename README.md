@@ -60,7 +60,6 @@ smart-merchant-recommendation-system/
 ├── requirements.txt
 └── README.md
 
-
 ### 📁 Root Level Files
 
 #### `README.md`
@@ -690,3 +689,4 @@ M.Sc. in Business Information Systems
 **Last Updated**: January 2026  
 **Version**: 1.0.0  
 **Project Status**: Production Ready
+
