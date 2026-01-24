@@ -30,7 +30,7 @@ Develop an intelligent system to segment WE Telecom customers into distinct beha
 ## Project Structure & File Documentation
 
 🗂️ Project Structure
-
+```text
 smart-merchant-recommendation-system/
 │
 ├── app/
@@ -59,6 +59,8 @@ smart-merchant-recommendation-system/
 │
 ├── requirements.txt
 └── README.md
+```
+
 
 ### 📁 Root Level Files
 
@@ -689,4 +691,5 @@ M.Sc. in Business Information Systems
 **Last Updated**: January 2026  
 **Version**: 1.0.0  
 **Project Status**: Production Ready
+
 
